@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeUp_2633 Lower Bound", "CodeUp_2633 Lower Bound\CodeUp_2633 Lower Bound.vcxproj", "{5066DAA2-CEC7-4595-A7FB-BCB65E9F2BD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5066DAA2-CEC7-4595-A7FB-BCB65E9F2BD4}.Debug|x64.ActiveCfg = Debug|x64
+		{5066DAA2-CEC7-4595-A7FB-BCB65E9F2BD4}.Debug|x64.Build.0 = Debug|x64
+		{5066DAA2-CEC7-4595-A7FB-BCB65E9F2BD4}.Debug|x86.ActiveCfg = Debug|Win32
+		{5066DAA2-CEC7-4595-A7FB-BCB65E9F2BD4}.Debug|x86.Build.0 = Debug|Win32
+		{5066DAA2-CEC7-4595-A7FB-BCB65E9F2BD4}.Release|x64.ActiveCfg = Release|x64
+		{5066DAA2-CEC7-4595-A7FB-BCB65E9F2BD4}.Release|x64.Build.0 = Release|x64
+		{5066DAA2-CEC7-4595-A7FB-BCB65E9F2BD4}.Release|x86.ActiveCfg = Release|Win32
+		{5066DAA2-CEC7-4595-A7FB-BCB65E9F2BD4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14AD7860-463A-4DDE-AF18-E775F175B2D6}
+	EndGlobalSection
+EndGlobal
